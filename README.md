@@ -1,7 +1,6 @@
 Treinando uma IA de Aprendizagem: Explore o Poder do NotebookLM
-Contexto e Objetivos
 
-Tema Escolhido
+Tema Escolhido:
 Hábitos Saudáveis para Jovens de 15 a 25 anos.
 
 Objetivos de Estudo
